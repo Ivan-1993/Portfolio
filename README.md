@@ -19,3 +19,5 @@
 
 В общем медленно, но верно двигаюсь к своей мечте. 
 
+![my foto](https://github.com/Ivan-1993/Portfolio/assets/121189236/fde42e21-3915-4a82-8f15-c611dd9cdae0)
+
